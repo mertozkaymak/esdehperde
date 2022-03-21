@@ -40,8 +40,8 @@
                         </a>
                     </div>
                     <div class="row m-0">
-                        <a href="https://www.esdehperdedeposu.com/dosya/PerdeModülü/duz-model.png" data-lightbox="roadtrip" class="w-100">
-                            <img src="https://www.esdehperdedeposu.com/dosya/PerdeModülü/duz-model.png" class="img-fluid border"/>
+                        <a href="***/dosya/PerdeModülü/duz-model.png" data-lightbox="roadtrip" class="w-100">
+                            <img src="***/dosya/PerdeModülü/duz-model.png" class="img-fluid border"/>
                         </a>
                     </div>
                 </div>
@@ -53,8 +53,8 @@
                         </a>
                     </div>
                     <div class="row m-0">
-                        <a href="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-perde-modeli.png" data-lightbox="roadtrip" class="w-100">
-                            <img src="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-perde-modeli.png" class="img-fluid border"/>
+                        <a href="***/dosya/PerdeModülü/kruvaze-perde-modeli.png" data-lightbox="roadtrip" class="w-100">
+                            <img src="***/dosya/PerdeModülü/kruvaze-perde-modeli.png" class="img-fluid border"/>
                         </a>
                     </div>
                 </div>
