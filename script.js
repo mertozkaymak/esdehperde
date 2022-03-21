@@ -15,7 +15,7 @@
         def: {
             additionalInfo: new Object(),
             product: new Object(),
-            formsPath: "https://dev.digitalfikirler.com/esdehperde/forms/",
+            formsPath: "***/forms/",
             optionalRollerBlind: false,
             pileRatesRequired: false,
             addToCartLock: true,
