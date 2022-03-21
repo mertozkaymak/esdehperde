@@ -141,8 +141,8 @@
                                             </a>
                                         </div>
                                         <div class="row m-0">
-                                            <a href="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-sol-kanat.png" data-lightbox="roadtrip" class="w-100">
-                                                <img src="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-sol-kanat.png" class="img-fluid border"/>
+                                            <a href="***/dosya/PerdeModülü/kruvaze-sol-kanat.png" data-lightbox="roadtrip" class="w-100">
+                                                <img src="***/dosya/PerdeModülü/kruvaze-sol-kanat.png" class="img-fluid border"/>
                                             </a>
                                         </div>
                                     </div>
@@ -154,8 +154,8 @@
                                             </a>
                                         </div>
                                         <div class="row m-0">
-                                            <a href="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-sag-kanat.png" data-lightbox="roadtrip" class="w-100">
-                                                <img src="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-sag-kanat.png" class="img-fluid border"/>
+                                            <a href="***/dosya/PerdeModülü/kruvaze-sag-kanat.png" data-lightbox="roadtrip" class="w-100">
+                                                <img src="***/dosya/PerdeModülü/kruvaze-sag-kanat.png" class="img-fluid border"/>
                                             </a>
                                         </div>
                                     </div>
@@ -207,8 +207,8 @@
                                             </a>
                                         </div>
                                         <div class="row m-0">
-                                            <a href="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-sol-kanat.png" data-lightbox="roadtrip" class="w-100">
-                                                <img src="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-sol-kanat.png" class="img-fluid border"/>
+                                            <a href="***/dosya/PerdeModülü/kruvaze-sol-kanat.png" data-lightbox="roadtrip" class="w-100">
+                                                <img src="***/dosya/PerdeModülü/kruvaze-sol-kanat.png" class="img-fluid border"/>
                                             </a>
                                         </div>
                                     </div>
@@ -220,8 +220,8 @@
                                             </a>
                                         </div>
                                         <div class="row m-0">
-                                            <a href="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-sag-kanat.png" data-lightbox="roadtrip" class="w-100">
-                                                <img src="https://www.esdehperdedeposu.com/dosya/PerdeModülü/kruvaze-sag-kanat.png" class="img-fluid border"/>
+                                            <a href="***/dosya/PerdeModülü/kruvaze-sag-kanat.png" data-lightbox="roadtrip" class="w-100">
+                                                <img src="***/dosya/PerdeModülü/kruvaze-sag-kanat.png" class="img-fluid border"/>
                                             </a>
                                         </div>
                                     </div>
